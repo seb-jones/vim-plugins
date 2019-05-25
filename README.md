@@ -1,4 +1,4 @@
-Todo: make a repo full of submodules that store the plugins I use.
+I did not make any of these plugins. Please see the respective repos for licences, credits, etc.
 
 ## Installation
 ```
