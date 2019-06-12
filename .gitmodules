@@ -7,9 +7,6 @@
 [submodule "gruvbox"]
 	path = gruvbox
 	url = https://github.com/morhetz/gruvbox.git
-[submodule "lexima.vim"]
-	path = lexima.vim
-	url = https://github.com/cohama/lexima.vim.git
 [submodule "nerdtree"]
 	path = nerdtree
 	url = https://github.com/scrooloose/nerdtree.git
