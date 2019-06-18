@@ -7,9 +7,6 @@
 [submodule "gruvbox"]
 	path = gruvbox
 	url = https://github.com/morhetz/gruvbox.git
-[submodule "nerdtree"]
-	path = nerdtree
-	url = https://github.com/scrooloose/nerdtree.git
 [submodule "phpcd.vim"]
 	path = phpcd.vim
 	url = https://github.com/lvht/phpcd.vim.git
